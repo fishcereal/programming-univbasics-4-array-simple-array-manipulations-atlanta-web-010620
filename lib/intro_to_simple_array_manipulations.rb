@@ -23,3 +23,4 @@ def pop_with_shift(array)
 end
 
 def using_concat
+end
